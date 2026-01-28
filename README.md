@@ -36,10 +36,13 @@ What isn't poetry is mostly related toward either **epistemological questions** 
 
 ## DATA MODEL 
 
-In total there are **fifteen columns**. Except the Item_number, used as a key for eventual future database, the other columns can be grouped in three categories:
-1. Basic information related to basic metadata;
-2. Data related to hardware, software and/or physical aspects involved, as well as computer language;
-3. Data about the type, genre and preservation state of the e-literary object itself
+In total there are **twenty-two columns**. Except the Item_number, used as a key for eventual future database, the other columns can be grouped in three categories:
+1. Core identification;
+2. Form and medium;
+3. Text model and structure;
+4. Metadata and preservation;
+5. Short description
+
 For more details, check [this file](https://github.com/ClaraPetraMariafrancescaBusdon/first_e-literature_dataset/blob/main/data/data_dictionary.md) which explains the dictonary used in more detail.
 
 ## LIMITATIONS
